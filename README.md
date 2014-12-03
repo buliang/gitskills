@@ -1,2 +1,1 @@
-doing bug....done______________
-creating a new branch is quicly and simple
+creating a new branch is quicly and simple +
