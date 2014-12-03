@@ -1,3 +1,3 @@
 gitskills
 =========
-creating a new branch is quicly 
+creating a new branch is quicly and simple
